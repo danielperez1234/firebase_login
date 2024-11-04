@@ -46,7 +46,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:365166925840:android:a279d75020c3f19fff5295",
         "android_client_info": {
-          "package_name": "com.your.app"
+          "package_name": "mvs.digital.noticias"
         }
       },
       "oauth_client": [
@@ -54,7 +54,7 @@
           "client_id": "365166925840-2ovti2tcv7cc8qvd09l369pfpc1ubulf.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.your.app",
+            "package_name": "mvs.digital.noticias",
             "certificate_hash": "8a1c196904008b552bcf07a86fba3eef4babadc3"
           }
         },

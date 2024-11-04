@@ -1,4 +1,4 @@
-package com.your.app
+package mvs.digital.noticias
 
 import io.flutter.embedding.android.FlutterActivity
 
